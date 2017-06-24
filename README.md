@@ -5,6 +5,10 @@
   * Introduction to REST
   * Design REST
 * Day 2
+  * Develope service
+  * Testing service
+  * Deploy service
+  * Monitoring service
 
 
 # Resources
