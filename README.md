@@ -21,3 +21,11 @@
 * https://grafana.com/
 * https://prometheus.io/
 * https://www.docker.com/
+
+# Install Silk
+
+```
+$go get github.com/matryer/silk
+$export PATH=.:$GOPATH/bin/:$PATH
+$silk -silk.url=<server:port> <file.md> <file.md>
+```
