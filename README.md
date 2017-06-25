@@ -18,6 +18,7 @@
 * https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices
 * http://the-hobbes.github.io/update/prometheus/metrics/instrumentation/monitoring/2016/03/27/instrumenting-with-prometheus.html
 * https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/
+* https://linoxide.com/containers/setup-monitoring-docker-containers-prometheus/
 
 # Tools
 * https://grafana.com/
