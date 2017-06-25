@@ -15,3 +15,9 @@
 * https://12factor.net/
 * http://microservices.io/
 * https://martinfowler.com/articles/microservice-testing/
+* https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices
+
+# Tools
+* https://grafana.com/
+* https://prometheus.io/
+* https://www.docker.com/
