@@ -22,7 +22,7 @@
 * https://prometheus.io/
 * https://www.docker.com/
 
-# Install Silk
+# Install [Silk](https://github.com/matryer/silk)
 
 ```
 $go get github.com/matryer/silk
