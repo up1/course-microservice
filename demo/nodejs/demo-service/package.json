@@ -1,0 +1,14 @@
+{
+  "name": "demo-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Somkait Puisungnoen <somkiat.p@gmail.com> (http://www.somkiat.cc)",
+  "license": "ISC",
+  "dependencies" : {
+    "prom-client": "9.1.1"
+  }
+}
