@@ -1,7 +1,7 @@
-# Course microservice in action
+# Course microservices in action
 
 * Day 1
-  * Introduction to microservice
+  * Introduction to microservices
   * Introduction to REST
   * Design REST
   * Design (Micro)Services
@@ -13,11 +13,12 @@
     * Integration testing
     * Contract testing
     * End-to-End testing
-  * Develope service
-  * Testing service
-  * Deploy service
-  * Monitoring service
-
+  * Develope services
+  * Testing services
+  * Deploy services
+  * Monitoring services
+  * Tracing services
+  * Metric of services
 
 # Resources
 * https://12factor.net/
