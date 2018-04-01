@@ -1,10 +1,18 @@
-# course-microservice
+# Course microservice in action
 
 * Day 1
   * Introduction to microservice
   * Introduction to REST
   * Design REST
+  * Design (Micro)Services
+  * Workshop
 * Day 2
+  * Microservices testing strategies
+    * Unit testing
+    * Component testing
+    * Integration testing
+    * Contract testing
+    * End-to-End testing
   * Develope service
   * Testing service
   * Deploy service
