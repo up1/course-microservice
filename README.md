@@ -25,10 +25,18 @@
 * https://prometheus.io/
 * https://www.docker.com/
 
-# Install [Silk](https://github.com/matryer/silk)
+# For testing
+* Unit testing
+  * [JUnit](https://junit.org/junit5/)
+  
+* Contract Testing
+  * [Pact](https://docs.pact.io/)
+  * [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/)
 
-```
-$go get github.com/matryer/silk
-$export PATH=.:$GOPATH/bin/:$PATH
-$silk -silk.url=<server:port> <file.md> <file.md>
-```
+* API Testing
+  * [Silk](https://github.com/matryer/silk)
+  * [Postman](https://www.getpostman.com/)
+  
+* UI Testing
+  * [Robotframework](http://robotframework.org/)
+  * [Selenium](https://www.seleniumhq.org/)
