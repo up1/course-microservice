@@ -6,7 +6,7 @@
   * Design REST
   * Design (Micro)Services
   * Workshop
-* Day 2
+* Day 2, 3
   * Microservices testing strategies
     * Unit testing
     * Component testing
@@ -19,6 +19,9 @@
   * Monitoring services
   * Tracing services
   * Metric of services
+  
+# Code Example
+* [Develop RESTFul API with Golang](https://github.com/up1/go-restful-api)
 
 # Resources
 * https://12factor.net/
