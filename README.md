@@ -31,6 +31,7 @@
 * http://the-hobbes.github.io/update/prometheus/metrics/instrumentation/monitoring/2016/03/27/instrumenting-with-prometheus.html
 * https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/
 * https://linoxide.com/containers/setup-monitoring-docker-containers-prometheus/
+* https://micro-frontends.org/
 
 # Tools
 * https://grafana.com/
@@ -44,9 +45,12 @@
 * Contract Testing
   * [Pact](https://docs.pact.io/)
   * [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/)
+  * [mbtest](http://www.mbtest.org/)
+  * [Stubby4j](https://github.com/azagniotov/stubby4j)
 
 * API Testing
   * [Silk](https://github.com/matryer/silk)
+  * [Cotton](https://github.com/chonla/cotton)
   * [Postman](https://www.getpostman.com/)
   
 * UI Testing
