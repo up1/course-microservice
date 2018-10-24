@@ -6,7 +6,7 @@
   * Design REST
   * Design (Micro)Services
   * Workshop
-* Day 2, 3
+* Day 2, 3, 4, 5
   * Microservices testing strategies
     * Unit testing
     * Component testing
